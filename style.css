@@ -179,21 +179,21 @@
     }
 
     h1, h2 {
-        line-height: 28px;
-        font-size: 28px;
+        line-height: 32px;
+        font-size: 32px;
         color: #333;
     }
 
     span {
-        margin: 14px 0 0;
-        line-height: 14px;
-        font-size: 14px;
+        margin: 16px 0 0;
+        line-height: 16px;
+        font-size: 16px;
         color: #333;
     }
 
     p {
-        line-height: 14px;
-        font-size: 14px;
+        line-height: 16px;
+        font-size: 16px;
         color: #333;
     }
 
@@ -207,8 +207,8 @@
 
     .txt-sp {
         display: grid;
-        gap: 14px;
-        margin: 28px 0;
+        gap: 16px;
+        margin: 32px 0;
         text-align: center;
     }
 
@@ -227,8 +227,8 @@
         justify-content: center;
         align-items: center;
         position: relative;
-        gap: 28px;
-        width: calc(100% - 28px);
+        gap: 32px;
+        width: calc(100% - 32px);
         height: auto;
     }
 
@@ -245,15 +245,15 @@
         justify-content: space-between;
         align-items: center;
         position: relative;
-        gap: 14px;
-        padding: 14px 28px;
-        border-radius: 42px;
+        gap: 16px;
+        padding: 16px 32px;
+        border-radius: 48px;
         background: #333;
     }
 
     .contact a > p, i {
-        line-height: 14px;
-        font-size: 14px;
+        line-height: 16px;
+        font-size: 16px;
         color: #fff;
     }
 }
